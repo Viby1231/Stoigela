@@ -133,7 +133,7 @@ h2.animate {
     align-content: center;
     justify-content: center;
     height: 300px;
-    background-image: url(Images/Ocean\ Bacground.png);
+    background-image: url("Images/Ocean\ Bacground.png");
     background-attachment:scroll;
     background-position: center;
     background-repeat: no-repeat;
