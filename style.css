@@ -326,6 +326,28 @@ p {
 
     }
 
+    .button h2{
+        margin-top: 0;
+        font-size: 32px;
+        font-family: "Space Grotesk", sans-serif;
+        font-weight: 600;
+    }
+    
+    .button button
+    {
+    
+        width: 200px;
+        height: 50px;
+    
+        background-color: #3BAF3E;
+        border: none;
+        color: white;
+    }
+    
+    .button button:hover {
+        background-color: #a3eba5;
+    }
+
     #mottosubtitle {
         text-shadow: 2px 2px 20px black ;
     }
@@ -425,6 +447,23 @@ p {
     #mottobg {
         height: 200px;
 
+    }
+    .button h2{
+        margin-top: 0;
+        font-size: 32px;
+        font-family: "Space Grotesk", sans-serif;
+        font-weight: 600;
+    }
+    
+    .button button
+    {
+    
+        width: 200px;
+        height: 50px;
+    
+        background-color: #3BAF3E;
+        border: none;
+        color: white;
     }
     #mottotitle {
 
