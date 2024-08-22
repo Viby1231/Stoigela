@@ -41,7 +41,7 @@ body {
 }
 
 .parallax {
-    background-image: url("/Images/Water\ Bottle\ On\ Mountain\ Back.png");
+    background-image: url("../../Images/Water\ Bottle\ On\ Mountain\ Back.png");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
