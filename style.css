@@ -314,46 +314,7 @@ p {
     
     }
 
-    .footer {
-        height: 400px;
-        display: flex;
-        flex-direction: row;
-        gap: 15%;
-        justify-content: center;
-        border: solid black 1px;
-    }
 
-
-    .footer-img {
-        align-content: center;
-        text-align: center;
-        display: flex;
-        flex-direction: column;
-        border-right: solid grey 1px;
-        padding-right: 70px;
-
-    }
-    .footer div {
-        align-content: center;
-        display: flex;
-        flex-direction: column;
-        padding-top: 60px;
-
-    }
-    .footer a {
-        line-height: 40px;
-        text-decoration: none;
-        color: #666a6b;
-    }
-    .footer p {
-        line-height: 10px;
-    }
-
-    .copyright-notice {
-        text-align: center;
-        background-color: black;
-        color: white;
-    }
 }
 
 @media (max-width: 1200px) and (min-width: 350px) {
@@ -479,82 +440,11 @@ p {
         align-items: center;
     }
     
-    .footer {
-        height: 1500px;
-        display: flex;
-        flex-direction: column;
-
-        border: solid black 1px;
-    }
-
-    .footer div {
-        align-content: center;
-        display: flex;
-        flex-direction: column;
-        padding: 30px;
-
-    }
-
-    .footer a {
-        line-height: 40px;
-        text-decoration: none;
-        color: #666a6b;
-    }
-
-    .footer-img {
-        text-align: center;
-        align-self: center;
-        display: flex;
-        flex-direction: column;
-        border-right: solid grey 0px;
-
-    }
-
-    .copyright-notice {
-        text-align: center;
-        background-color: black;
-        color: white;
-    }
 
 }
 
 @media (max-width: 350px) {
     
-    .footer {
-        height: 1500px;
-        display: flex;
-        flex-direction: column;
-
-        border: solid black 1px;
-    }
-
-    .footer div {
-        align-content: center;
-        display: flex;
-        flex-direction: column;
-        padding: 30px;
-
-    }
-
-    .footer a {
-        line-height: 40px;
-        text-decoration: none;
-        color: #666a6b;
-    }
-
-    .footer-img {
-        text-align: center;
-        display: flex;
-        flex-direction: column;
-        border-right: solid grey 0px;
-
-    }
-
-    .copyright-notice {
-        text-align: center;
-        background-color: black;
-        color: white;
-    }
 
     
     #mottobg {
