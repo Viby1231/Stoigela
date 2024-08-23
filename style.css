@@ -189,8 +189,7 @@ h2.animate {
 
 #bgmask {
     background-color: rgba(255, 255, 255, 0.63);
-    height: fit-content;
-    align-content: center;
+
     
 }
 
@@ -241,7 +240,6 @@ p {
 
 @media (max-width: 2000px) and (min-width: 1200px) {
     #products {
-        margin-bottom: 100px;
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
@@ -445,7 +443,6 @@ p {
 
     #bgmask {
         height: 1500px;
-        justify-items: center;
 
     }
 
