@@ -32,12 +32,15 @@
 }
 .footer p {
     line-height: 10px;
+    font-size: 18px;
+
 }
 
 .copyright-notice {
     text-align: center;
     background-color: black;
     color: white;
+    text-align: center;
     }
 }
 
@@ -48,7 +51,7 @@
         display: flex;
         flex-direction: column;
 
-        border: solid black 1px;
+        border-top: solid black 1px;
     }
 
     .footer div {
@@ -78,6 +81,7 @@
         text-align: center;
         background-color: black;
         color: white;
+        text-align: center;
     }
 }
 
@@ -113,8 +117,9 @@
         }
     
         .copyright-notice {
-            text-align: center;
+            text-align: none;
             background-color: black;
             color: white;
+            text-align: center;
         }
     }
