@@ -220,10 +220,6 @@ body {
   
             
           </ul>
-          <form class="d-flex" role="search">
-            <input class="form-control " type="search" placeholder="Search" aria-label="Search">
-            <button class="btn btn-outline-success" type="submit">Search</button>
-          </form>
         </div>
       </div>
     </nav>
@@ -239,7 +235,8 @@ body {
         
 
         <div class="flex other-ways">
-            <form action="#" method="post" class="form-container">
+            <form action="https://api.web3forms.com/submit" method="POST" class="form-container">
+                <input type="hidden" name="access_key" value="41a768c7-a9be-4418-abf2-72befc4582f3">
                 <label for="name">Name:</label>
                 <input type="text" id="name" name="name" required>
     
